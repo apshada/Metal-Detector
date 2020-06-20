@@ -1,0 +1,17 @@
+.data{
+   color: red;
+   display: flex;
+   justify-content: center;
+   flex-basis: auto;
+
+}
+.speedo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.meter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
