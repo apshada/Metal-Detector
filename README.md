@@ -1,5 +1,5 @@
 # Metal-Detector
-Detects Metal using Phone's Magnometer
+Detects Metal using Phone's  magnetometer sensor
 * A magnetic field detector plugin ideal for science toolkit or metal detector apps.
 It displays the raw x, y, and z magnetometer values as well as a computed magnitude of the magnetic field.
 Added sound to the Application whenever Magnitude crosses certain values its start beep Sound 
